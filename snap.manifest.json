@@ -1,18 +1,18 @@
 {
-  "version": "1.0.3",
-  "description": "Manage Solana-based tokens and NFTs, swap, stake, bridge from EVM to SOL, and connect to Solana apps with MetaMask.",
-  "proposedName": "Solana Wallet",
+  "version": "0.0.2",
+  "description": "Manage Eclipse-based tokens and NFTs, swap, stake, bridge from EVM to Eclipse, and connect to Eclipse apps with MetaMask.",
+  "proposedName": "Eclipse Wallet",
   "repository": {
     "type": "git",
-    "url": "https://github.com/solflare-wallet/solflare-snap.git"
+    "url": "https://github.com/Eclipse-Laboratories-Inc/eclipse-snap.git"
   },
   "source": {
-    "shasum": "hyw8D7jdrDe4FGohp7hjn7miXCk5JVo7yohV5Q3I2io=",
+    "shasum": "2/r+OORJv7whf0guC9szUfPU+8Jhct5DEagf9w51SBU=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
         "iconPath": "logo.svg",
-        "packageName": "@solflare-wallet/solana-snap",
+        "packageName": "@eclipse-labs/eclipse-snap",
         "registry": "https://registry.npmjs.org"
       }
     }

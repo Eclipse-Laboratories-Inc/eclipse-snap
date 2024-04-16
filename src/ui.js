@@ -1,4 +1,4 @@
-import { panel, heading, text, copyable, divider } from '@metamask/snaps-ui';
+import { panel, heading, text, copyable, divider } from '@metamask/snaps-sdk';
 
 export function renderGetPublicKey(host, pubkey) {
   return snap.request({
